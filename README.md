@@ -9,3 +9,4 @@ Will put date wise progress below in decending order
 - [ ] PHP
 - [ ] AI/ML Basics
 - [ ] DSA in Java
+- [ ] Typescriptg
